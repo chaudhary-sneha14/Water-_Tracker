@@ -1,0 +1,50 @@
+Why SQLite?
+
+Because it is simple and does not need a separate database server.
+
+cursor?
+
+A cursor is used to execute SQL commands.
+Think of cursor as a worker that talks to the database.
+
+conn.close()?
+This closes the database connection.
+
+VALUES(?, ?, ?, ?)?
+These ? are placeholders.
+
+------------------------------------------------------------------
+User sends intake data
+↓
+FastAPI receives request
+↓
+Pydantic validates data
+↓
+Data is saved in SQLite
+↓
+AI agent analyzes intake
+↓
+Log is saved
+↓
+FastAPI returns response
+------------------------------------------------------------------
+
+
+
+
+1. What is FastAPI?
+
+Answer:
+FastAPI is a modern Python web framework used to build APIs quickly.
+It is fast, easy to use, and automatically creates API documentation.
+app = FastAPI() -> This creates a FastAPI application object.
+
+9. What is Pydantic?
+
+Answer:
+Pydantic is used for data validation.BaseModel is a Pydantic class used to define request body format.
+
+16. What is Uvicorn?
+
+Answer:
+Uvicorn is a server used to run FastAPI applications.
