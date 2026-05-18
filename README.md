@@ -67,7 +67,7 @@ python -m venv .venv
 
 ---
 
-## UI
+## 🚰 UI
 
 <img width="860" height="331" alt="image" src="https://github.com/user-attachments/assets/754c59f5-fd7f-4106-9e70-66e779653518" />
 
@@ -256,14 +256,3 @@ History and chart show previous intake records
 
 Built as a beginner-friendly AI hydration tracker project using Python, FastAPI, Streamlit, SQLite, and Gemini.
 ```
-
-
-
-
-
-
-
-
-
-
-
