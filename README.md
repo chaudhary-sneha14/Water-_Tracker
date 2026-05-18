@@ -52,9 +52,20 @@ Water_Tracker/
 
 <img width="860" height="331" alt="image" src="https://github.com/user-attachments/assets/754c59f5-fd7f-4106-9e70-66e779653518" />
 
+
+---
+
+
 <img width="792" height="395" alt="image" src="https://github.com/user-attachments/assets/68b4f5c9-c0f7-43dd-83b2-a56485e8dad3" />
 
+
+---
+
+
+
 <img width="859" height="435" alt="image" src="https://github.com/user-attachments/assets/fa43679a-fe5e-4538-8bbd-0ea456497961" />
+
+---
 
 
 
