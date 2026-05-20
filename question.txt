@@ -48,3 +48,17 @@ Pydantic is used for data validation.BaseModel is a Pydantic class used to defin
 
 Answer:
 Uvicorn is a server used to run FastAPI applications.
+
+
+-------------------------------------------flow----------------
+When app runs:
+
+1. Page opens
+2. User enters user_id
+3. User enters water intake
+4. User clicks Submit
+5. Data saves in database
+6. AI gives feedback
+7. Feedback shows on screen
+8. User clicks Show History
+9. History table and chart appear
